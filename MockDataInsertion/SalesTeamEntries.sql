@@ -1,0 +1,22 @@
+INSERT INTO "SalesTeam" ("EmployeeID", "PayrollID", "FirstName", "LastName", "StreetAddress", "City", "Prov")
+VALUES
+(1, 1, 'John', 'Doe', '123 Main Street', 'Cityville', 'ON'),
+(2, 2, 'Jane', 'Smith', '456 Elm Street', 'Townsville', 'QC'),
+(3, 3, 'Michael', 'Johnson', '789 Oak Street', 'Villagetown', 'AB'),
+(4, 4, 'Emily', 'Williams', '321 Maple Avenue', 'Hamletville', 'BC'),
+(5, 5, 'Daniel', 'Brown', '654 Pine Road', 'Citytown', 'MB'),
+(6, 6, 'Sarah', 'Taylor', '987 Cedar Lane', 'Villageville', 'NB'),
+(7, 7, 'Christopher', 'Davis', '741 Birch Street', 'Townville', 'NL'),
+(8, 8, 'Jessica', 'Miller', '852 Willow Avenue', 'Hamletown', 'NS'),
+(9, 9, 'Matthew', 'Anderson', '369 Spruce Road', 'Villageton', 'PE'),
+(10, 10, 'Olivia', 'Lee', '951 Oak Lane', 'Cityville', 'SK'),
+(11, 11, 'David', 'Wilson', '753 Elm Street', 'Townsville', 'AB'),
+(12, 12, 'Sophia', 'Thompson', '582 Maple Avenue', 'Hamletville', 'BC'),
+(13, 13, 'Andrew', 'Garcia', '369 Pine Road', 'Citytown', 'MB'),
+(14, 14, 'Isabella', 'Martinez', '159 Cedar Lane', 'Villageville', 'NB'),
+(15, 15, 'Joseph', 'Robinson', '852 Birch Street', 'Townville', 'NL'),
+(16, 16, 'Mia', 'Clark', '741 Willow Avenue', 'Hamletown', 'NS'),
+(17, 17, 'Ethan', 'Rodriguez', '753 Spruce Road', 'Villageton', 'PE'),
+(18, 18, 'Ava', 'Lewis', '369 Oak Lane', 'Cityville', 'SK'),
+(19, 19, 'Alexander', 'Hall', '159 Elm Street', 'Townsville', 'AB'),
+(20, 20, 'Charlotte', 'Young', '582 Maple Avenue', 'Hamletville', 'BC');
